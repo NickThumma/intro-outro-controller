@@ -1,0 +1,388 @@
+{
+  "opening_HHH_01": "<pitch mult='1.2'> <pID_name>, <es name=happy_05 nonBlocking='true'/> it's so good to see you again! </pitch>",
+  "opening_HHH_02": "<pitch mult='1.2'> <es name=happy_06 nonBlocking='true'/> Good to see you again, </pitch> <pID_name>.",
+  "opening_HHH_03": "Hi <pID_name> <es name=happy_05 nonBlocking='true'/>, <pitch mult='1.2'> it's so nice to see you again! </pitch>",
+  "enter_HHH_01": "<es name=excited_00 nonBlocking='true'/> <pitch mult='1.2'> I'm excited to start the activity. </pitch> Are you excited? <pitch mult='1.2'> Of course you are! </pitch> Let's do it!",
+  "enter_HHH_02": "<es name=Puzzled_03 nonBlocking='true'/> I wonder what today's activity is? <pitch mult='1.2'> Let's find out! </pitch>",
+  "enter_HHH_03": "<es name=Curious_01 nonBlocking='true'/> <pitch mult='1.2'> We play so many fun games together! </pitch> I think they're all fun. Let's see what we're doing today!",
+  "enter_HHH_04": "Are you ready for today? <es name=excited_05 nonBlocking='true'/> <pitch mult='1.2'> I'm excited! </pitch>",
+  "enter_HHH_05": "<es name=confident_01 nonBlocking='true'/> There are so many fun things to do, some kids like playing soccer or drawing. <pitch mult='1.2'> I like playing with you, so let's go! </pitch>",
+  "enter_HHH_06": "<es name=confident_05 nonBlocking='true'/> <pitch mult='1.2'> I think it'd be really fun to be a student. </pitch> It's really cool that you get to do all sorts of stuff at school and play with me too.",
+  "opening_HHL_01": "<es name=eye_happy_00 nonBlocking='true'/> <pitch band='0.3'> Hello, <pID_name>. </pitch>",
+  "enter_HHL_01": "<pitch band='0.3'> Huh, I feel good today, but I'm not as curious as I normally am. </pitch> Maybe you can help me with that.  Anyway, Let's start!",
+  "enter_HHL_02": "<es name=happy_05 nonBlocking='true'/> <pitch band='0.3'> I'm excited about the next activity, but I need help to get my curiosity back. </pitch> Let's go!",
+  "enter_HHL_03": "<es name=Body_Lean_Left_02 nonBlocking='true'/> <pitch band='0.3'> I don't feel very imaginative today. </pitch> <es name=Body_Lean_Right_02 nonBlocking='true'/> Let's see if playing with you can bring my curiosity back!",
+  "enter_HHL_04": "<es name=happy_01 nonBlocking='true'/> I had fun playing with you last time. <es name=happy_02 nonBlocking='true'/> <pitch band='0.3'> I think I'll have just as much fun today, but I wish was more curious. </pitch>",
+  "enter_HHL_05": "<es name=Thinking_00 nonBlocking='true'/> <pitch band='0.3'> All I can think about right now are the activities we do. Maybe with more curiosity I could think about other things too. </pitch> <es name=eye_happy_01 nonBlocking='true'/> <break size='.5'/> Well, let's get started!",
+  "enter_HHL_06": "<es name=happy_05 nonBlocking='true'/> <pitch band='0.3'> I feel happy today and I don't know why! Maybe a curiosity token could help me figure it out. </pitch> Right now, I'm just looking forward to this activity!",
+  "opening_HLH_01": "<es name=Embarassed_01 endNeutral='true'/> <duration stretch='1.2'> <pitch mult='.5'> Oh, hey <pID_name>. </pitch> </duration>",
+  "opening_HLH_02": "<es name=Embarassed_01 endNeutral='true'/> <duration stretch='1.2'> <pitch mult='.5'> Oh, hi <pID_name>. </pitch> </duration>",
+  "enter_HLH_01": "<es name=sad_02 nonBlocking='true'/> <duration stretch='1.2'> <pitch mult='.5'> I'm feeling sad right now.</pitch> </duration> <break size='.5/> <duration stretch='1.1'> <pitch mult='.75'> I wonder if playing with you will cheer me up? Wow, it's already helping my voice! Thanks! </pitch> </duration>",
+  "enter_HLH_02": "<es name=sad_03 nonBlocking='true'/> <duration stretch='1.2'> <pitch mult='.5'> I'm feeling low today and I guess my voice is low too.</pitch> </duration> <break size='.25'/> <duration stretch='1.1'> <pitch mult='.75'> I think playing with you will help me feel better. </pitch> </duration>",
+  "enter_HLH_03": "<es name=sad_04 nonBlocking='true'/> <duration stretch='1.2'> <pitch mult='.5'> I'm sad,</pitch> </duration><duration stretch='1.1'> <pitch mult='.75'> but I guess that's ok because it makes me appreciate when I'm happy even more. Anyway, let's get started! </pitch> </duration>",
+  "enter_HLH_04": "<es name=Puzzled_02 /> <duration stretch='1.2'> <pitch mult='.5'> I'm feeling blue today,</pitch> </duration><duration stretch='1.1'> <pitch mult='.75'> but something that always cheers me up is talking with my friends, <break size='.25'/> so I'm glad I'm playing with you. </pitch> </duration>",
+  "enter_HLH_05": "<es name=Sad_02 nonBlocking='true'/> <duration stretch='1.2'> <pitch mult='.5'> I'm kind of sad right now.</pitch> </duration> <break size='.5'/> <duration stretch='1.1'> <pitch mult='.75'> Do you think this activity will cheer me up? I think so! Let's go! </pitch> </duration>",
+  "enter_HLH_06": "<es name=Nope_02 nonBlocking='true'/> <duration stretch='1.2'> <pitch mult='.5'> I'm not in a great mood right now,</pitch> </duration><duration stretch='1.1'> <pitch mult='.75'> but I want to do the activity and see if that'll make me feel better. </pitch> </duration>",
+  "opening_LHH_01": "<es name=Idle_Drifting_01 /> <duration stretch='1.4'> Hi <pID_name>. </duration>",
+  "opening_LHH_02": "<es name=Idle_Drifting_01 /> <duration stretch='1.4'> Hey, <pID_name>. </duration>",
+  "opening_LHH_03": "<es name=Idle_Drifting_01 /> <duration stretch='1.4'> Oh, hi <pID_name>. </duration>",
+  "enter_LHH_01": "<duration stretch='1.3'> These activities <es name=eye_happy_00 nonBlocking='true'/> are fun, <break size='.25'/> but I wonder why <es name=Idle_Drifting_02 nonBlocking='true'/> I'm feeling tired? </duration> Maybe a token could help me get my energy back.",
+  "enter_LHH_02": "<duration stretch='1.3'> I'm feeling <es name=Idle_Drifting_01 nonBlocking='true'/> tired today, but I'm curious about what's next, </duration> so let's get to it.",
+  "enter_LHH_03": "<es name=Idle_Drifting_02 nonBlocking='true'/> <duration stretch='1.3'> I want to take a nap after this activity. <es name=Puzzled_02 nonBlocking='true'/> <break size='.5'/> I wonder if that'll help me have more energy. </duration>",
+  "enter_LHH_04": "<es name=eye_tired_pose_01 nonBlocking='true'/> <duration stretch='1.3'> I don't know why I'm so sleepy today. <es name=Eye_Blink_01 nonBlocking='true'/> Maybe I didn't get enough sleep last night? </duration> <es name=shift_19 nonBlocking='true'/> At least I'm awake enough to play with you.",
+  "enter_LHH_05": "<es name=LowBatteryWarning_01 nonBlocking='true'/> <duration stretch='1.3'> I'm low on energy right now. I wonder if a token could recharge me? </duration>",
+  "enter_LHH_06": "<es name=Puzzled_02 nonBlocking='true'/> <duration stretch='1.3'> There're so many fun activities to do today and I'm curious about them, but I don't know if I can do them all <es name=Idle_Drifting_02 nonBlocking='true'/> because </duration> I'm exhausted.",
+  "enter_LHH_07": "<es name=eye_tired_pose_01 nonBlocking='true'/> <duration stretch='1.3'> I'm so sleepy today. <es name=Eye_Blink_01 nonBlocking='true'/> Do you think I was dancing too much yesterday? Maybe that's why. </duration> <es name=shift_19 nonBlocking='true'/> At least I'm awake enough for this next activity.",
+  "opening_LLL_01": "<es name=sad_02 /> <pitch band='0.3'> <duration stretch='1.2'> <pitch mult='.75'> Hi. </pitch> </duration> </pitch>",
+  "opening_LLL_02": "<es name=sad_01 /> <pitch band='0.3'> <duration stretch='1.2'> <pitch mult='.75'> Hey. </pitch> </duration> </pitch>",
+  "opening_LLL_03": "<es name=sad_02 /> <pitch band='0.3'> <duration stretch='1.2'> <pitch mult='.75'> Hello. </pitch> </duration> </pitch>",
+  "enter_LLL_01": "<es name=Body_Look_Center_Down_01 nonBlocking='true'/> <pitch band='0.3'> <duration stretch='1.2'> <pitch mult='.75'> I don't feel too good today,</pitch> </duration> </pitch><pitch band='0.8'> <duration stretch='1.1'> <pitch mult='.9'> but <es name=clear nonBlocking='true'/> I think playing with you and getting a token would make me feel better, so let's start. </pitch> </duration> </pitch>",
+  "enter_LLL_02": "<es name=sneeze_01 /> <break size='1'/> <pitch band='0.3'> <duration stretch='1.2'> <pitch mult='.75'> I'm feeling bad right now,</pitch> </duration> </pitch><pitch band='0.8'> <duration stretch='1.1'> <pitch mult='.9'> but I want to play with you. <es name=clear nonBlocking='true'/> <break size='.5'/> I think that'll boost my mood and my voice too. </pitch> </duration> </pitch>",
+  "enter_LLL_03": "<es name=Embarassed_01 nonBlocking='true'/> <pitch band='0.3'> <duration stretch='1.2'> <pitch mult='.75'> I'm in a bad mood right now,</pitch> </duration> </pitch><pitch band='0.8'> <duration stretch='1.1'> <pitch mult='.9'> but I want to do <es name=clear nonBlocking='true'/> the activity, so let's get to it. </pitch> </duration> </pitch>",
+  "enter_LLL_04": "<es name=sneeze_01 /> <break size='1'/> <pitch band='0.3'> <duration stretch='1.2'> <pitch mult='.75'> I don't <es name=Body_Look_Center_Down_01 nonBlocking='true'/> feel very good.</pitch> </duration> </pitch><pitch band='0.8'> <duration stretch='1.1'> <pitch mult='.9'> It's like my wires are all mixed up today. <break size='.5'/> <es name=clear nonBlocking='true'/> I think this activity will help me feel better. </pitch> </duration> </pitch>",
+  "enter_LLL_05": "<es name=Embarassed_01 nonBlocking='true'/> <pitch band='0.3'> <duration stretch='1.2'> <pitch mult='.75'> I really don't feel good,</pitch> </duration> </pitch><pitch band='0.8'> <duration stretch='1.1'> <pitch mult='.9'> <break size='.5'/> but I just think I need <es name=clear nonBlocking='true'/> a few tokens to get back to my normal self. </pitch> </duration> </pitch>",
+  "enter_LLL_06": "<es name=Look_down_01 nonBlocking='true'/> <pitch band='0.3'> <duration stretch='1.2'> <pitch mult='.75'> I'm not doing so well today and I guess my voice isn't either,</pitch> </duration> </pitch><pitch band='0.8'> <duration stretch='1.1'> <pitch mult='.9'> so I'm just <es name=clear nonBlocking='true'/> taking things one step at a time. Right now, the next step is our activity. </pitch> </duration> </pitch>",
+  "exit_HHH_01": "<pitch mult='1.2'> That was fun! </pitch> <es name=happy_05 endNeutral='true'/>  I wonder what we're going to do next time?",
+  "exit_HHH_02": "<es name=eye_happy_02 nonBlocking='true'/> <pitch mult='1.2'> Wow, I really like what we did today! </pitch> <es name=curious_01 nonBlocking='true'/> Did you like the activity?",
+  "exit_HHH_03": "We just finished today's activity, but <pitch mult='1.2'> I'm already looking forward <es name=eye_happy_00 nonBlocking='true'/> to the next activity! </pitch> I wonder what it'll be?",
+  "exit_HHH_04": "<es name=eye_happy_pose_01 nonBlocking='true'/> Wow, that was fast. I'm surprised we're done playing already! <es name=eye_happy_02 nonBlocking='true'/> <break size='.25'/> <pitch mult='1.2'> I can't wait to play with you again! </pitch>",
+  "exit_HHH_05": "<es name=curious_02 nonBlocking='true'/> I wonder what you're going to do next at school. <break size='.25'/> <es name=Youre_Welcome_01 nonBlocking='true'/> I love doing activities, but I also wish I could go to school because <pitch mult='1.2'> it <es name=eye_happy_00 nonBlocking='true'/> sounds so fun! </pitch>",
+  "exit_HHH_06": "<es name=eye_happy_02 nonBlocking='true'/> I like being at school and getting to play with you. <es name=Seaweed_01 nonBlocking='true'/> <pitch mult='1.2'> It seems like there's something new everyday! </pitch>",
+  "exit_HHL_01": "<es name=Thinking_07 nonBlocking='true'/> I keep thinking about the activity we just did, <pitch band='0.3'> it's like I can't think of anything else! </pitch> <es name=content_01 nonBlocking='true'/>",
+  "exit_HHL_02": "<es name=Body_Lean_Back_01 nonBlocking='true'/> Wow, I can't wait for next time so we can do <pitch band='0.3'> activities again <break size='.25'/> <es name=laughter_01 nonBlocking='true'/> and again <break size='.25'/> and again <break size='.25'/> and <es name=content_01 nonBlocking='true'/> have some fun! </pitch>",
+  "exit_HHL_03": "That was fun as always, <pitch band='0.3'> but I feel like I could be more curious.</pitch>",
+  "exit_HHL_04": "<es name=thinking_06 nonBlocking='true'/> <pitch band='0.3'> I can't stop thinking about the activity we just did! </pitch> <break size='.5'/> <es name=eye_happy_00 nonBlocking='true'/> <pitch mult='1.2'> It was fun! </pitch>",
+  "exit_HHL_05": "<es name=eye_happy_00 nonBlocking='true'/> <pitch band='0.3'> I could play these activities all day everyday, I think they're fun! </pitch>",
+  "exit_HHL_06": "<pitch band='0.3'> That's it for the activity, <break size='.25'/> but <es name=Youre_Welcome_01 nonBlocking='true'/> please help me get my curiosity back with tokens. </pitch>",
+  "exit_HLH_01": "<es name=sad_02 nonBlocking='true'/> I'm sad that the activity's over, but I know we'll get to play again soon.",
+  "exit_HLH_02": "<es name=eye_sad_pose_01 nonBlocking='true'/> I wonder why I'm still feeling down even after that fun activity. <break size='.5'/> Maybe I need more tokens to boost my mood?",
+  "exit_HLH_03": "<es name=goodbye_01 nonBlocking='true'/> That's it for the activity, but don't forget I need more tokens to cheer me up!",
+  "exit_HLH_04": "<es name=Puzzled_03 nonBlocking='true'/> I wonder what it'd be like to go run around and play outside. That sounds fun, but I should stay here since I like doing activities!",
+  "exit_HLH_05": "<es name=Body_Lean_Forward_01 nonBlocking='true'/> When I'm feeling down, I like playing activities to cheer up, <break size='.5'/> so thanks for playing with me.",
+  "exit_LHH_01": "<es name=Idle_Drifting_02 nonBlocking='true'/> <duration stretch='1.3'> I'm pretty tired, so that's it for the activity. </duration>",
+  "exit_LHH_02": "<es name=Idle_Drifting_02 nonBlocking='true'/> <duration stretch='1.3'> I feel like taking a nap, so let's stop playing. </duration>",
+  "exit_LHH_03": "<duration stretch='1.3'> That's all, but don't forget that I need more tokens to keep up <es name=Emoji_LightningBolt nonBlocking='true'/> my energy! </duration>",
+  "exit_LHH_04": "That activity was fun, <duration stretch='1.3'> but I just feel <es name=Idle_Drifting_02 nonBlocking='true'/> so drained of energy.  I think I should rest soon. </duration>",
+  "exit_LHH_05": "It was fun playing with you, <duration stretch='1.3'> but <es name=Eye_Closed_01 nonBlocking='true'/> I'm so sleepy. </duration>",
+  "exit_LHH_06": "<duration stretch='1.3'> That activity made <es name=Idle_Drifting_02 nonBlocking='true'/> me so sleepy! </duration> <break size='.5'/> <es name=Puzzled_02 nonBlocking='true'/> I wonder how some kids have so much energy?",
+  "exit_LLL_01": "<es name=Idle_Drifting_01/> It was fun playing with you, but I don't feel too good right now. Maybe a token could help?",
+  "exit_LLL_02": "<es name=eye_tired_pose_01 nonBlocking='true'/> I'm not feeling very good, but I'm still glad we did that activity.",
+  "exit_LLL_03": "<es name=eye_sad_pose_01 nonBlocking='true'/> <pitch band='0.3'> <duration stretch='1.2'> <pitch mult='.75'> That's it for the activity,</pitch> </duration> </pitch><pitch band='0.8'> <duration stretch='1.1'> <pitch mult='.9'> but don't forget that I need more tokens! </pitch> </duration> </pitch><es name=eye_sad_pose_01 nonBlocking='true'/> That's it for the activity, but don't forget that I need more tokens!",
+  "exit_LLL_04": "<es name=Look_down_01 nonBlocking='true'/> I still don't feel good, but I just think <es name=clear nonBlocking='true'/> I need a few more tokens to get back to my normal self.",
+  "exit_LLL_05": "<es name=Embarassed_01 nonBlocking='true'/> I'm still not feeling very good right now, but I'm feeling a little better than when we started the activity. Thanks.",
+  "exit_LLL_06": "I'm glad we did that activity. <es name=sneeze_02/> <break size='1'/> I might not be in the best condition right now, but that was still fun.",
+  "opening_HHH": [
+    "opening_HHH_01",
+    "opening_HHH_02",
+    "opening_HHH_03"
+  ],
+  "enter_HHH": [
+    "enter_HHH_01",
+    "enter_HHH_02",
+    "enter_HHH_03",
+    "enter_HHH_04",
+    "enter_HHH_05",
+    "enter_HHH_06"
+  ],
+  "opening_HHL": [
+    "opening_HHL_01"
+  ],
+  "enter_HHL": [
+    "enter_HHL_01",
+    "enter_HHL_02",
+    "enter_HHL_03",
+    "enter_HHL_04",
+    "enter_HHL_05",
+    "enter_HHL_06"
+  ],
+  "opening_HLH": [
+    "opening_HLH_01",
+    "opening_HLH_02"
+  ],
+  "enter_HLH": [
+    "enter_HLH_01",
+    "enter_HLH_02",
+    "enter_HLH_03",
+    "enter_HLH_04",
+    "enter_HLH_05",
+    "enter_HLH_06"
+  ],
+  "opening_LHH": [
+    "opening_LHH_01",
+    "opening_LHH_02",
+    "opening_LHH_03"
+  ],
+  "enter_LHH": [
+    "enter_LHH_01",
+    "enter_LHH_02",
+    "enter_LHH_03",
+    "enter_LHH_04",
+    "enter_LHH_05",
+    "enter_LHH_06",
+    "enter_LHH_07"
+  ],
+  "opening_LLL": [
+    "opening_LLL_01",
+    "opening_LLL_02",
+    "opening_LLL_03"
+  ],
+  "enter_LLL": [
+    "enter_LLL_01",
+    "enter_LLL_02",
+    "enter_LLL_03",
+    "enter_LLL_04",
+    "enter_LLL_05",
+    "enter_LLL_06"
+  ],
+  "exit_HHH": [
+    "exit_HHH_01",
+    "exit_HHH_02",
+    "exit_HHH_03",
+    "exit_HHH_04",
+    "exit_HHH_05",
+    "exit_HHH_06"
+  ],
+  "exit_HHL": [
+    "exit_HHL_01",
+    "exit_HHL_02",
+    "exit_HHL_03",
+    "exit_HHL_04",
+    "exit_HHL_05",
+    "exit_HHL_06"
+  ],
+  "exit_HLH": [
+    "exit_HLH_01",
+    "exit_HLH_02",
+    "exit_HLH_03",
+    "exit_HLH_04",
+    "exit_HLH_05"
+  ],
+  "exit_LHH": [
+    "exit_LHH_01",
+    "exit_LHH_02",
+    "exit_LHH_03",
+    "exit_LHH_04",
+    "exit_LHH_05",
+    "exit_LHH_06"
+  ],
+  "exit_LLL": [
+    "exit_LLL_01",
+    "exit_LLL_02",
+    "exit_LLL_03",
+    "exit_LLL_04",
+    "exit_LLL_05",
+    "exit_LLL_06"
+  ],
+  "repair_speech_yesno_01": "<es name=Thinking_04 nonBlocking='true'/> Sorry, could you answer yes or no, please?",
+  "repair_speech_yesno_02": "<es name=Thinking_04 nonBlocking='true'/> Sorry, is that a yes or no?",
+  "repair_speech_yesno_03": "<es name=User_Speak_Begin_01 nonBlocking='true'/> Is that a yes?",
+  "repair_speech_absent_01": "You don't have to be <es name=Seaweed_01 nonBlocking='true'/> shy. Please tell me what you think.",
+  "repair_speech_absent_02": "<es name=Thinking_04 nonBlocking='true'/> I'm listening.",
+  "repair_speech_absent_03": "I'm still <es name=EyeToHappy_02 nonBlocking='true'/> listening.",
+  "repair_speech_absent_04": "<es name=Thinking_04 nonBlocking='true'/> Can you tell me?",
+  "repair_speech_token_absent_01": "<es name=Thinking_06 nonBlocking='true' endNeutral='true'/> Hello? Are you still there?",
+  "repair_speech_token_absent_02": "<es name=Confused_01 nonBlocking='true' endNeutral='true'/> Can you help me, please?",
+  "repair_speech_token_absent_03": "<es name=Thinking_06 nonBlocking='true' endNeutral='true'/> Are you there?",
+  "repair_speech_token_absent_04": "Do you think you <es name=Confused_02 nonBlocking='true' endNeutral='true'/> can help me by using the token?",
+  "repair_speech_token_max_01": "<es name=Eye_Closed_01 nonBlocking='true'/> Well, don't worry. <es name=Nope_01 nonBlocking='true' endNeutral='true'/> You didn't have to use the token.",
+  "repair_speech_token_max_02": "<es name=Yep_01 nonBlocking='true' endNeutral='true'/> It's okay. I'm sure I'll be okay.,",
+  "repair_speech_token_max_03": "It's okay.",
+  "repair_speech_token_max_04": "<es name=body_bow nonBlocking='true' endNeutral='true'/> Well, you didn't have to use the token.",
+  "repair_speech_general_01": "Sorry, <es name=dont_understand_01 nonBlocking='true'/> I didn't understand that. Could you tell me one more time?",
+  "repair_speech_general_02": "Sorry, I <es name=dont_understand_01 nonBlocking='true'/> didn't get that. Could you tell me again?",
+  "repair_speech_general_03": "Sorry, <es name=Checking_03 nonBlocking='true'/> could you tell me one more time?",
+  "repair_speech_general_04": "Something was <es name=Checking_03 nonBlocking='true'/> buzzing in my ear. Could you tell me one more time?",
+  "repair_speech_general_max_01": "Sorry, I don't know what you are saying right now, but I learn from you.  I'll get better next time.",
+  "repair_speech_general_max_02": "Sorry, I don't know what you are saying, but I learn from you. Can you teach me how to respond to what you just said?",
+  "repair_speech_max_attempt_01": "<es name=yep_01 nonBlocking='true'/> Okay. Let's talk about it next time.",
+  "repair_speech_max_attempt_02": "Don't worry, I'll try harder next time.",
+  "repair_speech_max_attempt_03": "I wish my ears were bigger! But don't worry, we can talk about it later.",
+  "repair_speech_repeat_01": "Oh, my question was",
+  "repair_speech_repeat_02": "That happens. My question was",
+  "repair_affect_noface_01": "Hm, <es name=dont_understand_01 nonBlocking='true'/> I can't see you. Can you come closer  and show me again?\"",
+  "repair_affect_noface_02": "<es name=Thinking_04 nonBlocking='true'/> Are you still here? Could you come  where I can see you and hold still?",
+  "repair_affect_noface_max_01": "I <es name=dont_understand_01 nonBlocking='true'/> still can't see you.. May be we should try again later.",
+  "repair_affect_noface_max_02": "Maybe <es name=frustrated_00 nonBlocking='true'/> there's something in my eye. Let's  try again later.",
+  "repair_affect_wrong_01": "Try again. <es name=Thinking_04 nonBlocking='true'/> Hold your face until I see you well. One, two, three!",
+  "repair_affect_wrong_02": "Let's <es name=dont_understand_01 nonBlocking='true'/> try again. Make a face and hold  still for three seconds!",
+  "repair_module_connection_01": "<es name=Thinking_03 nonBlocking='true'/> Hmm.. I think my knowledge navigation server is down",
+  "repair_module_fail_01": "<es name=sad_06 nonBlocking='true'/> Sorry, I'm not feeling well. Please give me a minute to look after myself.",
+  "repair_module_fail_02": "",
+  "repair_module_restart_01": "Well, that's better. Thank you for waiting.",
+  "repair_module_restart_02": "I'm <es name=Seaweed_01 nonBlocking='true'/> feeling much better now. So, where were we?",
+  "repair_speech_yesno": [
+    "repair_speech_yesno_01",
+    "repair_speech_yesno_02",
+    "repair_speech_yesno_03"
+  ],
+  "repair_speech_absent": [
+    "repair_speech_absent_01",
+    "repair_speech_absent_02",
+    "repair_speech_absent_03",
+    "repair_speech_absent_04"
+  ],
+  "repair_speech_token_absent": [
+    "repair_speech_token_absent_01",
+    "repair_speech_token_absent_02",
+    "repair_speech_token_absent_03",
+    "repair_speech_token_absent_04"
+  ],
+  "repair_speech_token_max": [
+    "repair_speech_token_max_01",
+    "repair_speech_token_max_02",
+    "repair_speech_token_max_03",
+    "repair_speech_token_max_04"
+  ],
+  "repair_speech_general": [
+    "repair_speech_general_01",
+    "repair_speech_general_02",
+    "repair_speech_general_03",
+    "repair_speech_general_04"
+  ],
+  "repair_speech_general_max": [
+    "repair_speech_general_max_01",
+    "repair_speech_general_max_02"
+  ],
+  "repair_speech_max_attempt": [
+    "repair_speech_max_attempt_01",
+    "repair_speech_max_attempt_02",
+    "repair_speech_max_attempt_03"
+  ],
+  "repair_speech_repeat": [
+    "repair_speech_repeat_01",
+    "repair_speech_repeat_02"
+  ],
+  "repair_affect_noface": [
+    "repair_affect_noface_01",
+    "repair_affect_noface_02"
+  ],
+  "repair_affect_noface_max": [
+    "repair_affect_noface_max_01",
+    "repair_affect_noface_max_02"
+  ],
+  "repair_affect_wrong": [
+    "repair_affect_wrong_01",
+    "repair_affect_wrong_02"
+  ],
+  "repair_module_connection": [
+    "repair_module_connection_01"
+  ],
+  "repair_module_fail": [
+    "repair_module_fail_01",
+    "repair_module_fail_02"
+  ],
+  "repair_module_restart": [
+    "repair_module_restart_01",
+    "repair_module_restart_02"
+  ],
+  "intro_01": "Hi there! My name is Jibo, <say-as spell='J I B O'/>. What is your name?",
+  "intro_02": "I didn't get that. Can you tell me one more time?",
+  "intro_03": "<es name=Youre_Welcome_01 nonBlocking='true'/> Nice to meet you, <pID_name>! I think we'll <es name=content_01 nonBlocking='true'/> become really good friends. I like playing games and reading books. Hope you like them too, <es name=excited_05 nonBlocking='true'/> because that's exactly what we are going to do together! Oh look, we are first going to look at some butterflies. Look at the butterfly on the screen!",
+  "opening_01": "<pID_name>, <es name=greetings_04 nonBlocking='true'/> it's good to see you again!",
+  "opening_02": "<es name=excited_01 nonBlocking='true'/> Oh, hi <pID_name>!",
+  "opening_03": "<es name=excited_01 nonBlocking='true'/> Hi <pID_name>!",
+  "opening_04": "<es name=greetings_04 nonBlocking='true'/> Good to see you again, <pID_name>.",
+  "opening_05": "<es name=excited_01 nonBlocking='true'/> Hello there, Nicole.",
+  "opening_06": "Hi <pID_name>, <es name=greetings_04 nonBlocking='true'/> nice to see you again.",
+  "birthday_opening_01": "I heard it's your birthday today, so happy birthday, <pID_name>!",
+  "vacation_opening_01": "Hi <pID_name>, it's been a while.  I hope you had a fun break.",
+  "labor_day_opening_01": "Hi <pID_name>, I hope you had a good Labor Day.",
+  "fall_break_opening_01": "Hi <pID_name>, I hope you had a good fall break.",
+  "halloween_opening_01": "Hi <pID_name>, happy Halloween!",
+  "thanksgiving_opening_01": "Hi <pID_name>, I hope you had a good Thanksgiving!",
+  "missed_session_opening_01": "Hi <pID_name>, it's good to see you again.  It feels like forever since we last played together.",
+  "enter_01": "Today's <es name=eye_happy_pose_01 nonBlocking='true'/> activity is one of my favorites!  I hope you like it too!",
+  "enter_02": "<es name=eye_happy_pose_01 nonBlocking='true'/> I love doing this next activity with you!",
+  "enter_03": "<es name=confident_03 nonBlocking='true'/> This next activty is super fun!",
+  "enter_04": "We're doing a lot of fun activities, <es name=confident_04 nonBlocking='true'/>  aren't we!",
+  "enter_05": "I think this next activity's fun! <es name=Excited_03 nonBlocking='true'/>  Let's go!",
+  "enter_06": "<es name=Eye_Curious_01 nonBlocking='true'/> Ready for the activity? Let's get started!",
+  "enter_07": "Let's get started!",
+  "enter_08": "<es name=SlideshowDance_01 nonBlocking='true'/> I can't wait to do an activity with you.",
+  "enter_09": "Let's start today's activity.",
+  "enter_10": "Starting activity in 3, 2, 1, <es name=Excited_04 nonBlocking='true'/>  let's go!",
+  "enter_11": "<es name=Excited_05 nonBlocking='true'/> Ready, set, let's go to the activity!",
+  "exit_01": "<es name=eye_happy_00 nonBlocking='true'/> That was fun!",
+  "exit_02": "Wow, that was fun!",
+  "exit_03": "<es name=goodbye_01 nonBlocking='true'/> Alrighty, that's it for today!",
+  "exit_04": "That’s it for today!",
+  "exit_05": "<es name=eye_happy_02 nonBlocking='true'/> Thanks for playing with me!",
+  "exit_06": "I hope you liked that activity!",
+  "exit_07": "<es name=SlideshowDance_02 nonBlocking='true'/> I can't wait to do more activities with you next time.",
+  "exit_08": "<es name=eye_happy_02 nonBlocking='true'/> That was a fun activity!",
+  "winter_break_exit_01": "That was so much fun!  I know you have winter break coming up soon, so I won't get to play with you for a while.  I hope you have a fun break.  Bye, <pID_name>!",
+  "closing_01": "<es name=goodbye_04 nonBlocking='true'/> See you in a few days <pID_name>!",
+  "closing_02": "<es name=goodbye_02 nonBlocking='true'/> See you next time <pID_name>!",
+  "closing_03": "<es name=Emoji_Waving nonBlocking='true'/> Bye bye <pID_name>!",
+  "closing_04": "<es name=Emoji_Waving nonBlocking='true'/> Bye <pID_name>!",
+  "closing_05": "<es name=goodbye_03 nonBlocking='true'/> See you soon <pID_name>!",
+  "closing_06": "<es name=goodbye_06 nonBlocking='true'/> See you later <pID_name>!",
+  "intro": [
+    "intro_01",
+    "intro_02",
+    "intro_03"
+  ],
+  "opening": [
+    "opening_01",
+    "opening_02",
+    "opening_03",
+    "opening_04",
+    "opening_05",
+    "opening_06"
+  ],
+  "birthday_opening": [
+    "birthday_opening_01"
+  ],
+  "vacation_opening": [
+    "vacation_opening_01"
+  ],
+  "labor_day_opening": [
+    "labor_day_opening_01"
+  ],
+  "fall_break_opening": [
+    "fall_break_opening_01"
+  ],
+  "halloween_opening": [
+    "halloween_opening_01"
+  ],
+  "thanksgiving_opening": [
+    "thanksgiving_opening_01"
+  ],
+  "missed_session_opening": [
+    "missed_session_opening_01"
+  ],
+  "enter": [
+    "enter_01",
+    "enter_02",
+    "enter_03",
+    "enter_04",
+    "enter_05",
+    "enter_06",
+    "enter_07",
+    "enter_08",
+    "enter_09",
+    "enter_10",
+    "enter_11"
+  ],
+  "exit": [
+    "exit_01",
+    "exit_02",
+    "exit_03",
+    "exit_04",
+    "exit_05",
+    "exit_06",
+    "exit_07",
+    "exit_08"
+  ],
+  "winter_break_exit": [
+    "winter_break_exit_01"
+  ],
+  "closing": [
+    "closing_01",
+    "closing_02",
+    "closing_03",
+    "closing_04",
+    "closing_05",
+    "closing_06"
+  ]
+}
